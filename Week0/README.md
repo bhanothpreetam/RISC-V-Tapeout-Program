@@ -1,9 +1,3 @@
-````md
-# Week 0 – Tools Installation
-
-**Date:** 2025-09-20 
-**Outcome:** All required tools installed and verified on Ubuntu
-
 
 
 ## Yosys
