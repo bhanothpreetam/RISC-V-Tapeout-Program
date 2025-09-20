@@ -45,7 +45,7 @@ iverilog -V
 ### 2. Verification Screenshot
 
 ![iverilog-version](./assets/iverilog-version.png)
-![iverilog-test](./assets/iverilog-test.png)
+
 
 
 
@@ -155,7 +155,7 @@ make test
 ### 2. Verification Screenshot
 
 ![openlane-test](./assets/openlane-test.png)
-![openlane-help](./assets/openlane-help.png)
+
 
 
 
